@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ProjectSubmissionPertama</string>
+    <string name="name_heroes">Nama Film</string>
+    <string name="lorem">Description</string>
+
+
+    <string-array name="data_name">
+        <item>Ajin 2nd Season</item>
+        <item>Akagami no Shirayuki-hime 2nd Season</item>
+        <item>Boku no Hero Academia</item>
+        <item>Durarara!!x2 Ketsu</item>
+        <item>Magi: Sinbad no Bouken</item>
+        <item>Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season</item>
+        <item>Hibike! Euphonium 2</item>
+        <item>ReLIFE</item>
+        <item>Re:Zero kara Hajimeru Isekai Seikatsu</item>
+        <item>Shokugeki no Souma: Ni no Sara</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>It would be a mistake to write-off Ajin as a mere Tokyo Ghoul clone, or for its CG animation style, and thus miss out on one of the best anime series of 2016! . </item>
+        <item>Hey, we all get in the mood for a romantic shoujo saga from time to time. And it’s even better if the series in question is filled with tons of adventure and a cool lead heroine. In this regard, the greatly improved 2nd season of Akagami no Shirayuki-hime doesn’t disappoint one bit. </item>
+        <item>Even the biggest anime fans tend to have a place in their hearts for American superhero comics. Boku no Hero Academia blends the styles of the east and west, and the result is surprisingly successful. Unsurprisingly, opinion is highly polarized even though this anime certainly made its mark during 2016.</item>
+        <item>There’s no denying that this particular series is cool, fun and edgy. Furthermore, the cast of characters is vast, rich and diverse. But hey, you’ve got MAL’s excellent database to keep tabs on all of them..</item>
+        <item>Magi: Sinbad no Bouken is a treat for fans of the Magi franchise, and is a satisfying look into the early life of Sinbad.</item>
+        <item>Mecha anime isn’t as popular as it once was. This is a crying shame, and something needs to be done about it.</item>
+        <item>Musical dramas are few and far between. Therefore, Hibike! Euphonium 2 needs to be treated as a major event.</item>
+        <item>Ever wish you could turn your life around, but don\'t know how to go about it? Well, Arata Kaizaki can barely keep a job and needs some serious help. So when he’s offered a pill which will help improve his situation by the ReLife Research Institute, he jumps at the opportunity. Grade-A anime wish fulfillment.</item>
+        <item>Subaru Natsuki seems like a really unlucky guy, initially. His mundane life is turned upside down as he’s transported into a mysterious world and ambushed by thugs. But things turn out for the better once he’s rescued by the incredibly cute heroine – Satella.</item>
+        <item>Don’t watch this anime if you can’t stop salivating at the sight of delicious food. But do watch it if you want to check out the spirited Souma Yukihira teach us a thing or two in the kitchen. Picks off right where Season 1 ended, and is just as thrilling of a ride.</item>
+    </string-array>
+    <array name="data_photo">
+        <item>@drawable/ajin</item>
+        <item>@drawable/akagami</item>
+        <item>@drawable/bokunohero</item>
+        <item>@drawable/durararax2</item>
+        <item>@drawable/gami</item>
+        <item>@drawable/gundam</item>
+        <item>@drawable/hibike</item>
+        <item>@drawable/relife</item>
+        <item>@drawable/rezerp</item>
+        <item>@drawable/souma</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
